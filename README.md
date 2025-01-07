@@ -10,6 +10,11 @@ Update Employee Roles: Reassign employees to new roles.
 
 
 Technologies Used
+
 Node.js: Backend runtime environment.
+
+
 PostgreSQL: Relational database for storing application data.
+
+
 Inquirer.js: Interactive prompts for user input.
