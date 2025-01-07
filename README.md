@@ -3,12 +3,9 @@
 Employee Tracker
 
 Features
-View Data:
-Display all departments, roles, and employees in a formatted table.
-Add Data:
-Add new departments, roles, and employees with minimal effort.
-Update Employee Roles:
-Reassign employees to new roles.
+View Data: Display all departments, roles, and employees in a formatted table.
+Add Data: Add new departments, roles, and employees with minimal effort.
+Update Employee Roles: Reassign employees to new roles.
 
 
 
